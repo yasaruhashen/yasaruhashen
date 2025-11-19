@@ -17,10 +17,5 @@
 - [LinkedIn](https://www.linkedin.com/in/hashen-yasaru/)  
 - [Email](mailto:yasaru.hashen1@example.com)  
 
----
 
-## 🚀 Fun Stats
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Yasaru&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasaru&layout=compact&theme=dark)  
 
