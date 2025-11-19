@@ -2,7 +2,6 @@
 
 ## 🌟 About Me
 - 💻 Student at **University of Sri Jayewardenepura, Technology Faculty**  
-- 📱 Mobile App Developer (**Flutter** & **Java**)  
 - 🎨 Graphic Design Hobbyist  
 
 ## 🛠️ Skills
