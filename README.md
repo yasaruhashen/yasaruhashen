@@ -9,7 +9,7 @@
 - ⚡ Passionate about building interactive mobile apps and creative designs  
 
 ## 💻 Projects
-- 🌐 [tyrelink.lk](https://tyrelink.lk) – WordPress Website  
+- 🌐 [tyrelink.lk](https://tyrelink.rf.gd) – WordPress Website  
 - 📚 Bookshop Discount Management System (JavaFX)  
 - 🎯 Life Goal Tracker (Flutter)  
 
